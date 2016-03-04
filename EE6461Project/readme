@@ -1,0 +1,13 @@
+compression ratio=24.67041015625%
+
+FinalAssessment.java includes 2 functions: program1 for compression and program2 for decompression.
+
+PGM.java is for reading and writing PGM files.
+
+HarrTransform.java is for Harr transformation and inverse transformation.
+
+Quantization.java is for quantization and rescale.
+
+HuffmanCode.java is for Huffman coding and decoding.
+
+BinaryFile.java is for reading and writing binary files.
